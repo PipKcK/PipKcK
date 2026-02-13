@@ -37,7 +37,7 @@ I'm Ujjwal — a Security Engineer who wandered into AI and decided to stay.
 
 I spend most of my time breaking systems, understanding why they break, and then rebuilding them stronger. My work lives at the intersection of cybersecurity and applied AI, where things get interesting fast.
 
-Right now, I’m building a Blockchain based Identity System focused on decentralized authentication and verifiable credentials. The goal is simple: make identity more secure, more private, and less dependent on centralized trust.
+Right now, I’m building a (POC) Blockchain based Identity System focused on decentralized authentication and verifiable credentials. The goal is simple: make identity more secure, more private, and less dependent on centralized trust.
 
 When I’m not working on that, I’m usually building and shipping tools:
 
