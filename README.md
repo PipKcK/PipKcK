@@ -61,11 +61,11 @@ Contributed to OneCommunity's codebase by identifying and fixing bugs, improving
 
 ## 🛠 Tech Stack
 
-My core stack revolves around Python, Linux, and AWS.
+My core stack revolves around **Python, Linux, and AWS**.
 
-On the security side, I work heavily with Wireshark, Burp Suite, Metasploit, Nmap, and Snort.
+On the security side, I work heavily with **Wireshark, Burp Suite, Metasploit, Nmap, and Snort**.
 
-On the AI side, I build with Azure/AWS, Hugging Face, Ollama, and LangChain to deploy and orchestrate LLM driven systems.
+On the AI side, I build with **Azure/AWS, Hugging Face, Ollama, and LangChain** to deploy and orchestrate LLM driven systems.
 
 I enjoy network traffic analysis, offensive testing, model deployment, and designing systems that are both intelligent and hardened.
 
@@ -78,4 +78,3 @@ Fun facts:
 - I enjoy CTFs and reverse engineering challenges  
 - I like building tools more than talking about them  
 - I am statistically better than 95% of all humans at chess  
-- My morality may largely be influenced by corporate standards 👀  
