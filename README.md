@@ -13,71 +13,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Ujjwal Baranwal
+# Hey there 👋
 
-Security Engineer with a strong focus on Cybersecurity, AI, and Data Science.  
-I design secure systems, build offensive security tooling, and deploy production grade AI solutions.
+I'm Ujjwal, a Security Engineer and AI builder.
 
----
+I break systems, secure them, and build intelligent ones.
 
-## 🚀 Current Work
+Most of my work sits at the intersection of cybersecurity and applied AI.
 
-🔐 **Blockchain Based Identity System**  
-Building a decentralized identity layer using DIDs and verifiable credentials.
+Right now, I’m building a Blockchain based Identity System focused on decentralized authentication and verifiable credentials.
 
-🌐 **Web3 Browser Extension (yt-dlp integration)**  
-Open sourced extension bridging Web3 interactions with media tooling.
+On the side, I ship tools:
+- A Web3 browser extension powered by yt-dlp
+- Privacy focused local file conversion utilities
+- GenAI endpoints hosted on AWS Lambda for Sayaam For All
+- Open source contributions to projects like OneCommunity
 
-🗂 **Local File Converter Toolkit**  
-Lightweight utilities focused on privacy first local processing.
+My main stack is Python, Linux, AWS, and security tooling.
+I regularly work with Wireshark, Burp Suite, Metasploit, Nmap, Snort, Hugging Face, Ollama, and LangChain.
 
-🤝 **Sayaam For All**  
-Hosting and maintaining GenAI endpoints on AWS Lambda.  
-Working on scalable inference pipelines and API reliability.
+I enjoy network traffic analysis, offensive security testing, LLM deployment, and building secure AI pipelines.
 
-🛠 **Open Source Contributions**  
-Bug fixes and improvements for OneCommunity and other community driven projects.
+If something can be automated, optimized, or hardened, I’m probably working on it.
 
 ---
 
-## 🧠 Technical Focus
-
-**Cybersecurity**
-- Network traffic analysis and intrusion detection
-- Offensive security testing
-- Web application security
-- Secure system architecture
-
-**AI / ML**
-- LLM deployment and inference optimization
-- Retrieval augmented generation systems
-- Model orchestration using LangChain and Ollama
-- Applied machine learning workflows
+If you want to connect, reach out:
+- Add email here
+- Add LinkedIn here
+- Add portfolio here
 
 ---
 
-## 🛠 Tech Stack
+Fun facts:
 
-**Languages**
-Python, Bash
-
-**Security**
-Wireshark, Metasploit, Burp Suite, Nmap, Snort
-
-**AI / ML**
-Hugging Face, Ollama, LangChain, PyTorch
-
-**Infrastructure**
-AWS Lambda, Docker, Linux
-
----
-
-## 📫 Connect
-
-Add your email here  
-Add LinkedIn here  
-Add portfolio here  
-
----
-
-I enjoy breaking systems, understanding them deeply, and rebuilding them stronger.
+- I enjoy CTFs and reverse engineering challenges
+- I like building tools more than talking about them
+- I care a lot about security done properly
+- I’m always experimenting with new AI infrastructure
