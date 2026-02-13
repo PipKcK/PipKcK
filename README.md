@@ -55,7 +55,7 @@ Alongside my personal projects, I contribute to mission driven organizations:
 Hosting and maintaining GenAI endpoints on AWS Lambda. Working on scalable inference pipelines and reliable API infrastructure.
 
 **OneCommunity**  
-Contributed to open source codebase by identifying and fixing bugs, improving stability and maintainability.
+Contributed to OneCommunity's codebase by identifying and fixing bugs, improving stability and maintainability.
 
 ---
 
@@ -65,7 +65,7 @@ My core stack revolves around Python, Linux, and AWS.
 
 On the security side, I work heavily with Wireshark, Burp Suite, Metasploit, Nmap, and Snort.
 
-On the AI side, I build with Hugging Face, Ollama, and LangChain to deploy and orchestrate LLM driven systems.
+On the AI side, I build with Azure/AWS, Hugging Face, Ollama, and LangChain to deploy and orchestrate LLM driven systems.
 
 I enjoy network traffic analysis, offensive testing, model deployment, and designing systems that are both intelligent and hardened.
 
