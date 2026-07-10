@@ -27,33 +27,31 @@ Here are some ideas to get you started:
 
 -->
 
-
-
-                              @@@@@@@@@@                             github github github github github github github github 
-                           @@@@@@@@@@@#**%@@                         github github github github github github github github 
-                  @@@@   @@@@@@@@@@@@@@@@@%@@@                       github github github github github github github github 
-                 @#+=:-*%@@@@@@@@@@@@@@@@@@@@@@@                     github github github github github github github github 
-              @@@@@@#++=:....-*@@@@@@@@@@@@@@@@@@@                   github github github github github github github github 
-                  @@@@@*+++=:.....*@+:::--:*@@@:%@                   github github github github github github github github 
-                    @@@@@#++++=-.:@@*::#@=::+@=.*@@                  github github github github github github github github 
-                      @@@@@%+++++-=@#::*@%::-@+.=@@                  github github github github github github github github 
-                       @@@@@@@*++*@@%:::::::-@*.-@@                  github github github github github github github github 
-                      @#@@@@@@@@%@@@%-::::::-@#.:@@@                 github github github github github github github github 
-                     @%#@@@@@@@@@@@%#-::::::-@%:.%@@                 github github github github github github github github 
-                    @%+@@@@@@@@@@@###-::::::=@%:.#@@@                github github github github github github github github 
-                    @+%@@@@@@@@@%###+:::::::=@%-.-@@@                github github github github github github github github 
-                   @@@@@@@@@@@#####*::::::::+@%-..@@@                github github github github github github github github 
-                  @@@@@@@@@@%%#####-::::::::+@@=..#@@                github github github github github github github github 
-                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@+..*@@@               github github github github github github github github 
-                 @@@@@@@@%%%###############%@@@@*-=@@@               github github github github github github github github 
-                 @@@@@@@@%%######*****=------*@@@@*@@@               github github github github github github github github 
-                @@@@@@@@%%######*****=:::::::::%@@@@@@@              github github github github github github github github 
-               @@@@@@@@%%#######**+==::::::::::-+@@@@@@              github github github github github github github github 
-               @@@@@@@%%%%#####****+=-::::::::::-=#@@@@@             github github github github github github github github 
-              @@@@@@@%%%%%%%%%###**++=-::::::::::-==@@@@             github github github github github github github github 
-             @@@@@@@@@%%%%%%%%####*++==--:::::::::-==*@@             github github github github github github github github 
-             @@@@@@@@@@%%%%%%%####**++==---:::::::::===%%            github github github github github github github github 
-            @@@@@@@@@@@@%%%%%%%###**+++==---:::::::::-===            github github github github github github github github 
+                              @@@@@@@@@@                             -------------------------------------------------------
+                           @@@@@@@@@@@#**%@@                         GABEWASABI(PIPKCK) 
+                  @@@@   @@@@@@@@@@@@@@@@@%@@@                       -------------------------------------------------------
+                 @#+=:-*%@@@@@@@@@@@@@@@@@@@@@@@                     OS: ........................... Windows, Linux, Android
+              @@@@@@#++=:....-*@@@@@@@@@@@@@@@@@@@                   Uptime: ...................................... 24 Years 
+                  @@@@@*+++=:.....*@+:::--:*@@@:%@                   IP Address: ...................... 127.0.0.1 (Tempe AZ)
+                    @@@@@#++++=-.:@@*::#@=::+@=.*@@                  
+                      @@@@@%+++++-=@#::*@%::-@+.=@@                  -------------------------------------------------------
+                       @@@@@@@*++*@@%:::::::-@*.-@@                  MODULES
+                      @#@@@@@@@@%@@@%-::::::-@#.:@@@                 -------------------------------------------------------
+                     @%#@@@@@@@@@@@%#-::::::-@%:.%@@                 Languages: ............ Python, C/C++, Javascript, Java
+                    @%+@@@@@@@@@@@###-::::::=@%:.#@@@                Certification: ...................... CompTIA Security+ 
+                    @+%@@@@@@@@@%###+:::::::=@%-.-@@@                Cybersecurity:  ...... Wireshark, Burpsuite, Metasploit 
+                   @@@@@@@@@@@#####*::::::::+@%-..@@@                AI/ML: ................. RAG, LM Studio, QLoRA, PyTorch
+                  @@@@@@@@@@%%#####-::::::::+@@=..#@@                 
+                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@+..*@@@               ------------------------------------------------------- 
+                 @@@@@@@@%%%###############%@@@@*-=@@@               COMMUNICATION 
+                 @@@@@@@@%%######*****=------*@@@@*@@@               -------------------------------------------------------
+                @@@@@@@@%%######*****=:::::::::%@@@@@@@              Email: ................... ujjwalbaranwal2001@gmail.com
+               @@@@@@@@%%#######**+==::::::::::-+@@@@@@              Discord: ...................................... @pipkck
+               @@@@@@@%%%%#####****+=-::::::::::-=#@@@@@             Twitter/X: .................................... @pipkck
+              @@@@@@@%%%%%%%%%###**++=-::::::::::-==@@@@             
+             @@@@@@@@@%%%%%%%%####*++==--:::::::::-==*@@             
+             @@@@@@@@@@%%%%%%%####**++==---:::::::::===%%            
+            @@@@@@@@@@@@%%%%%%%###**+++==---:::::::::-===            														
 
 
 
