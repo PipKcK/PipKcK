@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 # Welcome to my Humble Abode 👋
 
-I'm a Security Engineer who wandered into AI and decided to stay.
+I'm a Software Engineer who wandered into AI and decided to stay.
 
 I spend most of my time breaking systems, understanding why they break, and then rebuilding them stronger. My work lives at the intersection of cybersecurity and applied AI, where things get interesting fast.
 
